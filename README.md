@@ -1,6 +1,6 @@
 # joppa
 
-> A Vue.js project
+> An Ecommerce platform
 
 ## Build Setup
 
